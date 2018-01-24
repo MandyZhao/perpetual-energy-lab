@@ -1,0 +1,116 @@
+.section_style {
+    background-color: #80ae61;
+    width: 100%;
+    height: 1000px;
+    /* background-image: url("../../energybg.jpg"); */
+    background-image: url("../../logo1.jpg");
+    background-size: cover;
+}
+
+.sub_content {
+    padding: 0 15%;
+    vertical-align: middle;
+    text-align: center;
+
+}
+.play-icon-img {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 15px;
+}
+.play-icon-img:hover {
+    opacity: 0.5;
+}
+.video_intro {
+    margin-top: 40px;
+}
+
+.section_title {
+    padding-top: 200px;
+}
+.sub_title:hover {
+    opacity: 0.5;
+}
+.text_title {
+    font-family: "Platform Web",Roboto,Helvetica,Arial,sans-serif;
+    color: floralwhite;
+    font-weight: 600;
+    font-size: 32px;
+}
+.sub_title {
+    text-transform: uppercase;
+    font-family: "Rubik", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+    color: white;
+}
+
+.token_model {
+    background-color: #0c142c;
+    width: 100%;
+    height: 800px;
+}
+.token_model_title {
+    padding-top: 60px;
+    
+}
+.section_joinus {
+    background-color: #80ae61;
+    width: 100%;
+    height: 250px;
+}
+
+.joinus_title {
+    padding-top: 60px;
+}
+.social_media_div {
+    text-align: center;
+}
+.social-icon-img {
+    width: 42px;
+    height: 42px;
+}
+.social-icon {
+    width: 42px;
+    height: 42px;
+    display: inline-block;
+    position: relative;
+    border-radius: 50%;
+    margin: 5px;
+    /* background: #fff url(styles.min.css) no-repeat center center/contain; */
+}
+.partner_div {
+    padding-bottom: 90px;
+}
+.partner_title {
+    padding-top: 60px;
+    text-align: center;
+}
+.section_joincommu {
+    padding-top: 60px;
+    background-color: gold;
+    color: seashell;
+    padding-bottom: 40px;
+}
+.section_ourteam {
+    padding-top: 60px;
+    padding-bottom: 50px;
+    background-color: white;
+}
+.ourteam_title .text_title{
+    color: #80ae61;
+}
+.team_card {
+    display: inline-block;
+    margin-right: 40px;
+    margin-left: 40px;
+    width: 240px;
+    margin-bottom: 50px;
+}
+/* .slider {
+    width: 650px;
+    margin: 0 auto;
+}
+
+img {
+    width: 420px;
+    height: 200px;
+} */

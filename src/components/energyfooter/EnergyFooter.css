@@ -1,0 +1,68 @@
+div.footer-body {
+    color: white;
+    background-color: #0a374b;
+    padding: 10px 50px;/* Same as AntD body*/
+  }
+  
+  div.footer-body .hr {
+    border-bottom: 1px solid #cdcdcd;
+  }
+  
+  div.footer-body .perpeual-footer-logo {
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 25px;
+  }
+  
+  div.footer-body div .element-col {
+    vertical-align: middle;
+    text-align: center;
+    /*border: 1px solid red;*/
+  }
+  
+  div.footer-body .footer-column-box {
+    text-align: left;
+    display: inline-block;
+    padding-bottom: 8px;
+  }
+  
+  div.footer-body .inline-icon {
+    display: inline-block;
+    width: 16px;
+    text-align: center;
+  }
+  
+  div.footer-body .footer-title-text {
+    font-size: 1.4em;
+    text-transform:uppercase;
+    padding-bottom: 10px;
+  }
+  
+  div.footer-body .footer-info-text {
+    font-size: 0.9em;
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+  
+  div.footer-body .soci-icon-link {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  /* Font-awesome icons */
+  div.footer-body .fa {
+    color: white;
+  }
+  
+  div.footer-body .copyright-text {
+    text-align: center;
+    color: white;
+    margin-top: 10px
+  }
+  .example {
+    text-align: center;
+    background: rgba(0,0,0,0.05);
+    border-radius: 4px;
+    margin-bottom: 20px;
+    padding: 30px 50px;
+    margin: 20px 0;
+  }

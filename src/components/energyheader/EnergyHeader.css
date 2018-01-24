@@ -1,0 +1,56 @@
+.header-logocontainer {
+    width: 100px;
+    height: 70px;
+    /* background: #FFF; */
+    border-radius: 6px;
+    margin: 10px 0 0 0;
+    float: left;
+   }
+   
+   .header-links {
+    color: #000;
+    font-size: 18px;
+    /* float: right; */
+    text-align: right;
+    margin: 10px 0 0 0;
+   }
+
+   .header-logo {
+     width: 100%;
+     height: 100%;
+   }
+   .header-list {
+       list-style: none;
+       display: inline-block;
+       position: relative;
+   }
+   #telegram {
+       background-image: url("../../telegram.png");
+   }
+   .header-list li {
+       display: inline;
+       margin: 0 0 0 1.5em;
+   }
+   .header-list li a {
+       color: black;
+       font-weight: 500;
+   }
+   .header {
+     background-color: transparent;
+     position: fixed;
+     width: 100%;
+     top: 0;
+     height: 80px;
+     z-index: 9999;
+     vertical-align: middle;
+     /* box-shadow:  0px 0px 3em rgba(0, 0, 0, 0.4); */
+   }
+   .active {
+     background-color: white;
+   }
+   .header-nav-link {
+     display: block;
+   }
+   
+
+   
